@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-deployment
-        image: pavansa/mumbai-app:latest
+        image: westmd23/node-sample-app:latest
         resources:
           requests:
             cpu: "100m"
