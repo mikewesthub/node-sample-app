@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-deployment
-        image: westmd23/node-sample-app:9
+        image: westmd23/node-sample-app:10
         resources:
           requests:
             cpu: "100m"
